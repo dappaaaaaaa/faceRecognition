@@ -1,0 +1,7 @@
+path: C:\Users\ACER\OneDrive\Documents\Kuliah\PKM\FaceRecognitionWithCuda\Dataset\splitData
+train: train/images
+val: val/images
+test: test/images
+
+nc: 2
+names: ['fake', 'real']
